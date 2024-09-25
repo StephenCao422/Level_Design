@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/Color.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/HealthColor.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/T_Restart.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/WBP_Restart.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/WBP_Health.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/WBP_Score.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/AI_Pursuer/Pursuer_AIController.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/AI_Pursuer/BP_Pursuer.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/AI_Pursuer/EAIState.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_Restart.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/InfiniteMatrix/UI/Color.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/InfiniteMatrix/UI/HealthColor.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/InfiniteMatrix/UI/Health.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/InfiniteMatrix/UI/T_Restart.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/InfiniteMatrix/UI/Score.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/Health.uasset",
+				"C:/Users/f2663/Desktop/415/Level Design/Level_Design/Content/LearningKit_Games/Blueprints/PlayerCharacter/UI/Score.uasset"
+			]
+		}
+	]
+}
